@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mediovales]]></title>
         <description><![CDATA[mediovales]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mediovales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 06:35:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 07:31:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mediovales/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Association les Médiovales</p>]]></description>
-            <link>undefined503b123d-e631-44b8-bb0d-4537bf891a7e/index.html</link>
+            <title><![CDATA[Les Médiovales]]></title>
+            <description><![CDATA[<article><h1>Les Médiovales</h1><p>Association les Médiovales</p></article>]]></description>
+            <link>https://thegrid.ai/mediovales/503b123d-e631-44b8-bb0d-4537bf891a7e/index.html</link>
             <guid isPermaLink="false">503b123d-e631-44b8-bb0d-4537bf891a7e</guid>
-            <pubDate>Wed, 16 Mar 2016 06:35:08 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 07:31:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
